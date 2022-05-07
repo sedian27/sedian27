@@ -1,16 +1,20 @@
-### Hi there 👋
+<!-- Inspiration: https://github.com/rxyhn -->
 
-<!--
-**sedian27/sedian27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+    <p align="center">
+      <samp><br>
+            <b>
+            Hi There
+        <br>
+            I'm Sedian, a Student, and programming lover.
+            </b>
+        <br>
+        <br>
+            <b>
+            ~ Sergio Diestra Andrade ~
+            </b>
+        <br>
+      </samp><br>
+    </p>
+<p align="right"><strong><samp>」</samp></strong></p>
