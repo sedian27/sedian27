@@ -7,7 +7,7 @@
             <b>
             Hi There
         <br>
-            I'm Sedian, a Student, and programming lover.
+            I'm Sedian, a Software Developer
             </b>
         <br>
         <br>
